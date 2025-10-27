@@ -1,4 +1,4 @@
-# blox-fruit-_G.FastAttack = true
+_G.FastAttack = true
 
 if _G.FastAttack then
     local _ENV = (getgenv or getrenv or getfenv)()
